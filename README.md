@@ -40,6 +40,13 @@ Bad Loans:
 *   5K applications classified as bad loans, funding $66M and receiving $37M.
 *   Represents 14% of the total loans issued.
 
+Loan Purposes and State Distribution:
+
+*    Common loan purposes include debt consolidation, credit card payments, and home improvement. 
+     Debt consolidation is the most frequent purpose, implying that many customers are using loans to manage or reduce existing debt.
+*    Loans are distributed across various states, with specific states like CA, NY, and TX having notable representation.
+     The regional spread can help identify areas with higher credit demand, which may inform strategic expansion or marketing efforts.
+
 Grade and Risk Levels:
 
 *    Loans are assigned grades (A, B, C, etc.), which likely indicate risk levels, with A being the highest quality or lowest risk.
