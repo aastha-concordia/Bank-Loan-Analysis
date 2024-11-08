@@ -11,51 +11,39 @@ Time-intelligence functions (DAX), Data Modelling, various KPIs and Visualizatio
 ## Dashboard|Overview
 ![bank loan report overview](https://github.com/user-attachments/assets/1a5a5e6b-6e98-4e30-b37c-81649f70e726)
 
-## Loan Segmentation Insights
 
-Good Loans:
-* 33K applications classified as good loans, funding $370M and receiving $436M.
-* Represents 86% of the total loans issued.
-
-Bad Loans:
-* 5K applications classified as bad loans, funding $66M and receiving $37M.
-* Represents 14% of the total loans issued.
-
-  ## Detailed Analysis
-  Detailed Analysis
-
-  Loan Status:
-  * Fully Paid: 32,145 applications, with $411.5M funded, 12.72% MOM increase.
-  * Charged Off: 5,333 applications, 33.3% MOM growth.
-  * Current: 1,098 applications.
-
-  Term Analysis:
-  * Loans are segmented by term length:
-  * Shorter terms have higher funded amounts, with $178M in 36-month terms.
-
-  Regional Analysis:
-  * A map displays distribution by state, showing regional variations in loan applications.
-
-  Employee Length Analysis:
-  * Funded and received amounts vary based on employee length, indicating certain job tenures might influence loan funding rates.
 
 ## Insights
-This project provides a comprehensive Loan Report Dashboard that visualizes critical metrics for a lending portfolio. 
-Through three key sections—Summary, Overview, and Details—the dashboard offers actionable insights for financial analysts and decision-makers.
+Loan Application Volume:
 
-* Summary Section: Highlights monthly and year-to-date metrics, such as total loan applications, funded amounts, amounts received, average interest rate, and debt-to-income (DTI) ratio.
-   This provides a quick snapshot of portfolio performance and growth trends, helping to monitor progress and identify areas needing attention.
+*    The total number of loan applications stands at 38.6K, with a Month-to-Date (MTD) increase of 4.3% and a Month-over-Month (MoM) growth of 6.9%.
+*    This upward trend suggests a growing demand for loans, which could indicate favorable market conditions or increased customer interest in credit.
+    
+Funded vs. Received Amounts:
 
-* Overview Section: Breaks down the portfolio by various categories, including loan purpose, state, loan grade, and customer risk classification.
-   This segmentation allows users to filter and analyze loans based on purpose (e.g., debt consolidation, credit card refinancing), state distribution, and risk level (Good vs.
-   Bad Loans), enhancing risk assessment and portfolio diversity.
+*    The Total Funded Amount is $435.8M, while the Total Amount Received is $473.1M. 
+    This implies that received amounts slightly exceed funded amounts, which may be due to interest and other fees.
+*    Month-over-month (MoM) growth for the funded amount is 13%, and for the received amount, it is 15.8%
+    The higher increase in received amounts suggests effective loan repayment collection.
 
-* Details Section: Presents granular data for each loan, including individual loan IDs, purpose, grade, funded amounts, received amounts, interest rates, and DTI ratios.
-   This section supports in-depth analysis of each loan’s health, repayment status, and geographic trends.
-The report reveals strong growth in loan applications and funding, with significant MOM increases across all key metrics. Good loans dominate, contributing most to the funded and received amounts.
- There’s also a noticeable correlation between loan term length and funded amounts. Lastly, regional and employee length analyses offer further segmentation for targeted strategies.
+Interest Rate and Debt-to-Income (DTI) Trends:
 
-These insights could help in making data-driven decisions regarding loan approval strategies, risk management, and customer segmentation for optimized lending performance.
+ *   The Average Interest Rate is 12.0%, with a slight 3.5% MoM decrease, indicating a possible adjustment in loan interest policies or a more competitive market.
+ *   The Average DTI ratio stands at 13.3%, with a 2.7% MoM decrease.
+    This could mean that customers are taking on slightly less debt relative to their income, suggesting healthier financial conditions for borrowers.
+
+Good Loans:
+*    33K applications classified as good loans, funding $370M and receiving $436M.
+*    Represents 86% of the total loans issued.
+
+Bad Loans:
+*   5K applications classified as bad loans, funding $66M and receiving $37M.
+*   Represents 14% of the total loans issued.
+
+Grade and Risk Levels:
+
+*    Loans are assigned grades (A, B, C, etc.), which likely indicate risk levels, with A being the highest quality or lowest risk.
+*    Most loans fall within the A and B grades, suggesting that the portfolio has a relatively low to moderate risk profile.
 
 ## Recommendations
 
